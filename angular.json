@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "unit-testing-exercises"
+    }
+  },
+  "defaultProject": "unit-testing-exercises",
+  "cli": {
+    "analytics": false
+  }
 }
